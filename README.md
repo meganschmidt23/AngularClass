@@ -1,2 +1,2 @@
 # AngularClass
-I am taking an Angular Class through Pluralsight, and this will be the repo where I follow along with the code
+I'm following along with the Angular tutoring for the Tour of Heroes example
